@@ -1,8 +1,8 @@
-Tujuan Kursus Online
-====================
+Sasaran dan Tujuan
+==================
 
-Apa yang saya butuhkan untuk mengikuti kursus online ini?
----------------------------------------------------------
+Apa yang saya butuhkan untuk mengikuti kursus online Tutorial Belajar Git dan GitHub untuk Pemula?
+--------------------------------------------------------------------------
 
 * Dapat menggunakan sistem operasi di komputer Anda, baik Linux, Windows, atau Mac
 * Memiliki email
@@ -10,23 +10,29 @@ Apa yang saya butuhkan untuk mengikuti kursus online ini?
 * Kemampuan dasar LibreOffice Calc / Microsoft Excel sangat disarankan, namun tidak diharuskan
 * Mengetahui setting proxy/jaringan institusi Anda (bila ada)
 
-Apa yang akan saya dapatkan dari kursus online ini?
+Apa yang akan saya dapatkan dari kursus online Tutorial Belajar Git dan GitHub untuk Pemula?
 ---------------------------------------------------
 
-* Memanfaatkan Git dan GitHub dalam membantu sekolah, kuliah, penelitian, atau pekerjaan Anda
-* Memudahkan kolaborasi dokumen, data, dan software dalam sebuah tim
-* Meningkatkan reputasi, karir, dan profil dalam CV Anda dengan profil GitHub beserta aktivitasnya
-* Membuat proyek baru di GitHub
-* Memilih lisensi yang tepat untuk proyek open documentation, open data, dan open source
-* Memilih file-file yang diabaikan dengan .gitignore
-* Meng-clone proyek Git menggunakan TortoiseGit
-* Memasukkan file, commit, dan push/pull/sync dengan TortoiseGit
-* Menulis dokumentasi dengan Visual Studio Code, reStructuredText, dan ReadTheDocs
-* Mempublikasi open data berformat CSV dengan LibreOffice Calc atau Microsoft Excel
-* Menggunakan integrasi Git di Eclipse IDE
-* Men-tag release dan mengunggah paket binary siap pakai
+1. Memanfaatkan Git dan GitHub dalam membantu sekolah, kuliah, penelitian, atau pekerjaan Anda, dan kolaborasi tim
+   * Memudahkan kolaborasi dokumen, data, dan software dalam sebuah tim
+   * Meningkatkan reputasi, karir, dan profil dalam CV Anda dengan profil GitHub beserta aktivitasnya
+2. Membuat proyek baru di GitHub
+   * Memilih lisensi yang tepat untuk proyek open documentation, open data, dan open source
+3. Operasi umum di Git menggunakan aplikasi TortoiseGit
+   * Instalasi Git dan TortoiseGit
+   * Konfigurasi User Info, Credential, dan Network melalui TortoiseGit
+   * Memilih file-file yang diabaikan dengan .gitignore
+   * Meng-clone proyek Git menggunakan TortoiseGit
+   * Memasukkan file, commit, dan push/pull/sync dengan TortoiseGit
+4. Materi Bonus: Open Documentation
+   * Menulis dokumentasi dengan Visual Studio Code, format reStructuredText, dan layanan ReadTheDocs
+5. Materi Bonus: Open Data
+   * Mempublikasi open data berformat CSV dengan LibreOffice Calc atau Microsoft Excel
+6. Materi Bonus: Git untuk *Software Developer*
+   * Menggunakan integrasi Git di Eclipse IDE
+   * Men-tag release dan mengunggah paket binary siap pakai
 
-Siapa yang perlu mengikuti kursus online ini? Siapa yang tidak perlu?
+Siapa yang perlu mengikuti kursus online Tutorial Belajar Git dan GitHub untuk Pemula? Siapa yang tidak perlu?
 ---------------------------------------------------------------------
 
 * Pelajar SMA/SMK/MA yang ingin belajar dan berlatih kolaborasi menggunakan sarana teknologi informasi

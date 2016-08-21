@@ -16,6 +16,7 @@ Daftar Isi:
    :maxdepth: 3
 
    tujuan
+   video
 
 
 Indices and tables

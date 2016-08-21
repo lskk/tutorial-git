@@ -14,21 +14,32 @@ Apa yang akan saya dapatkan dari kursus online Tutorial Belajar Git dan GitHub u
 ---------------------------------------------------
 
 1. Memanfaatkan Git dan GitHub dalam membantu sekolah, kuliah, penelitian, atau pekerjaan Anda, dan kolaborasi tim
+
    * Memudahkan kolaborasi dokumen, data, dan software dalam sebuah tim
    * Meningkatkan reputasi, karir, dan profil dalam CV Anda dengan profil GitHub beserta aktivitasnya
+
 2. Membuat proyek baru di GitHub
+
    * Memilih lisensi yang tepat untuk proyek open documentation, open data, dan open source
+
 3. Operasi umum di Git menggunakan aplikasi TortoiseGit
+
    * Instalasi Git dan TortoiseGit
    * Konfigurasi User Info, Credential, dan Network melalui TortoiseGit
    * Memilih file-file yang diabaikan dengan .gitignore
    * Meng-clone proyek Git menggunakan TortoiseGit
    * Memasukkan file, commit, dan push/pull/sync dengan TortoiseGit
+
 4. Materi Bonus: Open Documentation
+
    * Menulis dokumentasi dengan Visual Studio Code, format reStructuredText, dan layanan ReadTheDocs
+
 5. Materi Bonus: Open Data
+
    * Mempublikasi open data berformat CSV dengan LibreOffice Calc atau Microsoft Excel
+
 6. Materi Bonus: Git untuk *Software Developer*
+
    * Menggunakan integrasi Git di Eclipse IDE
    * Men-tag release dan mengunggah paket binary siap pakai
 
